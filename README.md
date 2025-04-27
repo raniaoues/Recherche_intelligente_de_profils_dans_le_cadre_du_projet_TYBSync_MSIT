@@ -126,4 +126,4 @@ Note: Planned gamified features (such as chess pawn movement and puzzle unlockin
 
 ## 🎥 Demo
 
-![Demo]("C:\Users\ouesl\Search_Bar\demo-MSIT-SearchBar.mp4")
+![Demo]("demo-MSIT-SearchBar.mp4")
