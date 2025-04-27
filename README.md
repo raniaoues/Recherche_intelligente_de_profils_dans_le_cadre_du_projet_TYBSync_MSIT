@@ -1,4 +1,6 @@
 **MSIT Conseil Search Bar**
+
+
 Project Description
 MSIT Conseil Search Bar is an interactive web application for searching and visualizing professional profiles within an immersive 3D interface. It combines modern technologies to deliver a unique and engaging user experience.
 
