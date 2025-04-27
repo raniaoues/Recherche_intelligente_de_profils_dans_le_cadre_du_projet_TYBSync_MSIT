@@ -125,5 +125,4 @@ Note: Planned gamified features (such as chess pawn movement and puzzle unlockin
 # **MSIT Conseil Search Bar**
 
 ## 🎥 Demo
-
-![Demo]("demo-MSIT-SearchBar.mp4")
+(https://drive.google.com/file/d/1IsuN3WiOTTDu92CR1Jm6BBjEIUedEoWT/view?usp=sharing)
