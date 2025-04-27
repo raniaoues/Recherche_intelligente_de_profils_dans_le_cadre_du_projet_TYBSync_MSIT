@@ -1,7 +1,6 @@
 # **MSIT Conseil Search Bar**
 
 
-Project Description
 MSIT Conseil Search Bar is an interactive web application for searching and visualizing professional profiles within an immersive 3D interface. It combines modern technologies to deliver a unique and engaging user experience.
 
 Main Features
@@ -123,3 +122,8 @@ Semantic ("fuzzy") search with vectorization techniques
 
 Note: Planned gamified features (such as chess pawn movement and puzzle unlocking) were not fully implemented due to hackathon time constraints.
 
+# **MSIT Conseil Search Bar**
+
+## 🎥 Demo
+
+![Demo]("C:\Users\ouesl\Search_Bar\demo-MSIT-SearchBar.mp4")
